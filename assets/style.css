@@ -72,12 +72,14 @@ textarea {
 
 .hour-style {
 width: 17%;
+text-align: center;
 }
 
 .activty-style {
-
+text-align: center;
 }
 
 .save-style {
 width: 7%;
+text-align: center;
 }

@@ -65,9 +65,15 @@ textarea {
   color: white;
 } */
 
-.saveBtn svg:hover {
-  /* font-size: 20px; */
-  transition: all 0.3s ease-in-out;
+.btn-secondary {
+  background-color: orange;
+  color: white;
+  width: 100%;
+  margin-top: 8%;
+}
+
+svg:hover {
+  transform: scale(2.5);
 }
 
 .hour-style {

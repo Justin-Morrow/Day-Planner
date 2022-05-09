@@ -1,6 +1,5 @@
 # Day-Planner
-![Thumbnail](/Day-Planner/assets/Daygenerator.pdf)
- 
+
  (https://justin-morrow.github.io/Day-Planner/)
 
 ## Table of Contents
@@ -21,7 +20,7 @@
 
 ## Description
 
-The project is an assignment that asks for the web developer to create a day calendar and add specific criteria in order to have the task saved to local storage, and have grey, green or red colors to show if the time is past, present or future.
+The project is an assignment that asks for the web developer to create a day calendar and add specific criteria in order to have the task saved to local storage, and have grey, green or red colors to show if the time is past, present or future. 
 
 ## Installation
 

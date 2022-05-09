@@ -1,5 +1,4 @@
 # Day-Planner
-
 ![Thumbnail](/Day-Planner/assets/daygenerator.png)
  
  (https://justin-morrow.github.io/Day-Planner/)

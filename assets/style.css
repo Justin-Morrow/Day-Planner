@@ -57,17 +57,30 @@ textarea {
   color: white;
 }
 
-.btn-secondary {
+/* .btn-secondary {
   background-color: orange;
   color: white;
   width: 100%;
   margin-top: 8%;
+} */
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
 }
 
-svg:hover {
+/* svg:hover {
   transform: scale(2.5);
-}
+} */
 
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+/* 
 .hour-style {
 width: 17%;
 text-align: center;
@@ -80,7 +93,7 @@ text-align: center;
 .save-style {
 width: 10%;
 text-align: center;
-}
+} */
 
 
 

@@ -48,6 +48,7 @@ textarea {
 }
 .saveBtn {
   background-color: orange;
+  width: 100%;
   color: white;
   border: none;
 }

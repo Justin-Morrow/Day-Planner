@@ -27,6 +27,7 @@ textarea {
 }
 .row {
   border: 1px solid black;
+  p
 }
 .hour {
   background-color: #FFFFFF;
@@ -48,6 +49,8 @@ textarea {
 .saveBtn {
   background-color: orange;
   color: white;
+  border: none;
+}
 }
 .saveBtn i:hover {
   font-size: 20px;
